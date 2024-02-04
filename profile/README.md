@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/Glittle-Organization/.github/assets/94492051/3e5059c2-347b-41c6-b3e5-b423122ae370)
+
 <!--
 
 **Here are some ideas to get you started:**
